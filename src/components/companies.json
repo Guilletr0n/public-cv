@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "Arroba System",
+    "start": "933458400000",
+    "end": "1007161200000",
+    "role": {
+      "en":"Create Adobe Flash games and animations. HTML integration",
+      "fr":"",
+      "es":""
+    }
+  },
+  {
+    "id": 2,
+    "name": "Anfibic",
+    "start": "1141167600000",
+    "end": "1154383200000",
+    "role": {
+      "en":"Create Adobe Flash interactive animations",
+      "fr":"",
+      "es":""
+    }
+  },
+  {
+    "id": 3,
+    "name": "Icom",
+    "start": "1506808800000",
+    "end": "1267398000000",
+    "role": {
+      "en":"Junior graphic designer, motion graphics and HTML static sites implementation",
+      "fr":"",
+      "es":""
+    }
+  },
+  {
+    "id": 4,
+    "name": "Alivebox",
+    "start": "1293836400000",
+    "end": "1312149600000",
+    "role": {
+      "en":"Skin components for Adobe Flex applications",
+      "fr":"",
+      "es":""
+    }
+  },
+  {
+    "id": 5,
+    "name": "Glowbl",
+    "start": "1317420000000",
+    "end": "1470002400000",
+    "role": {
+      "en":"Webdesigner, HTML and Adobe flex implementation. Business Developper",
+      "fr":"",
+      "es":""
+    }
+  },
+  {
+    "id": 6,
+    "name": "Peaks",
+    "start": "1504216800000",
+    "end": "1530396000000",
+    "role": {
+      "en":"Consultant expert in frontend optimization",
+      "fr":"",
+      "es":""
+    }
+  },
+  {
+    "id": 7,
+    "name": "Cocomore",
+    "start": "1567288800000",
+    "end": "",
+    "role": {
+      "en":"Frontend developer, static page implementation, create and maintain reusable components and visual libraries",
+      "fr":"",
+      "es":""
+    }
+  }
+]
